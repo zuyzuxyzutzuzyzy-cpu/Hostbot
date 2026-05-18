@@ -42,9 +42,9 @@ def keep_alive():
 
 # --- Configuration ---
 TOKEN = os.environ.get("TOKEN")
-OWNER_ID = 5319770650
-ADMIN_ID = 5319770650
-YOUR_USERNAME = '@Alokxmusic'
+OWNER_ID = 8524433151
+ADMIN_ID = 8524433151
+YOUR_USERNAME = '@Tempemail7_bot'
 UPDATE_CHANNEL = 'https://t.me/alokoul'
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
